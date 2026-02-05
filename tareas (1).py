@@ -1,5 +1,6 @@
 import json
 import os
+from funciones import *
 
 #Este es un cambio de informacion de y de prueba de la rama
 def menu():
