@@ -69,7 +69,7 @@ def completar_tarea(tareas):
         print("ID no encontrado.")
     except ValueError:
         print("Ingresa un número válido.")
-
+#Esta es una funcion que me permite ver el menu y sus opciones 
 def menu():
     tareas = cargar_tareas()
 
